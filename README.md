@@ -2,4 +2,7 @@
 Docker file for setting up opencv
 
 Docker image - hub link:
-  https://hub.docker.com/repository/docker/nivrattituito/opencv4-dnn-ubuntu-2004
+  https://hub.docker.com/r/nivrattituito/opencv4-dnn-ubuntu-2004
+  
+ Docker Pull Command:
+  `docker pull nivrattituito/opencv4-dnn-ubuntu-2004`
